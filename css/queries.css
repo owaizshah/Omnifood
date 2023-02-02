@@ -221,6 +221,11 @@
   .cta-text-box {
     padding: 3.2rem.4;
   }
+
+  .btn:link,
+  .btn:visited {
+    padding: 1.8rem 1.1rem;
+  }
 }
 
 /*       FONT SIZE SYSTEM (px)
