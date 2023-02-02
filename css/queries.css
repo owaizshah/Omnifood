@@ -223,6 +223,8 @@
   .btn:visited {
     padding: 1.8rem 1.1rem;
   }
+  .featured-logos img {
+    height: 1.1rem;
 }
 
 /*       FONT SIZE SYSTEM (px)
