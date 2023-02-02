@@ -69,9 +69,9 @@ const obsPrice = new IntersectionObserver(
   },
   {
     root: null,
-    threshold: 0.5,
+    threshold: 0.2,
     // rootMargin: "200px",
   }
 );
 
-// obsPrice.observe(priceSecEl);
+obsPrice.observe(priceSecEl);

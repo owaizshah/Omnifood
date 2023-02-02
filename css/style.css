@@ -669,7 +669,7 @@
   transform: translateX(0);
 } */
 
-/* .plan--1 {
+.plan--1 {
   transform: translateX(-200%);
   transition: all 1s;
 }
@@ -677,4 +677,4 @@
 .plan--2 {
   transform: translateX(200%);
   transition: all 1s;
-} */
+}
