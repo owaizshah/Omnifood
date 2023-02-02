@@ -74,4 +74,4 @@ const obsPrice = new IntersectionObserver(
   }
 );
 
-obsPrice.observe(priceSecEl);
+// obsPrice.observe(priceSecEl);
