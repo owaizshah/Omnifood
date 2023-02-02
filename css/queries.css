@@ -12,8 +12,9 @@
   .gallery {
     grid-template-columns: repeat(2, 1fr);
   }
-  .customer-img:last-child {
-    display: none;
+  .customer-img-box {
+    flex-direction: column;
+    gap: 1.2rem;
   }
 }
 
@@ -187,10 +188,6 @@
     padding: 0 3.2rem;
   }
 
-  .customer-img {
-    width: 3.2rem;
-    height: 3.2rem;
-  }
   .hero-img {
     width: 80%;
   }
